@@ -1,0 +1,4 @@
+.python-version
+
+symptom_service_env/
+symptom-service/symptom_service/api/v1/ml/models/
